@@ -1,4 +1,5 @@
-[
+{
+"products": [
   {
     "id": 1,
     "description": "Great Value Peanut Butter",
@@ -210,3 +211,4 @@
     "inStock": true
   }
 ]
+}
