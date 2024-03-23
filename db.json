@@ -1,70 +1,212 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "description": "Product A",
-      "price": 19.99,
-      "inStock": true
-    },
-    {
-      "id": 2,
-      "description": "Product B",
-      "price": 29.99,
-      "inStock": false
-    },
-    {
-      "id": 3,
-      "description": "Product C",
-      "price": 39.99,
-      "inStock": true
-    },
-    {
-      "id": 4,
-      "description": "Product D",
-      "price": 49.99,
-      "inStock": true
-    },
-    {
-      "id": 5,
-      "description": "Product E",
-      "price": 59.99,
-      "inStock": false
-    },
-    {
-      "id": 6,
-      "description": "Product F",
-      "price": 69.99,
-      "inStock": true
-    },
-    {
-      "id": 7,
-      "description": "Product G",
-      "price": 79.99,
-      "inStock": true
-    },
-    {
-      "id": 8,
-      "description": "Product H",
-      "price": 89.99,
-      "inStock": false
-    },
-    {
-      "id": 9,
-      "description": "Product I",
-      "price": 99.99,
-      "inStock": true
-    },
-    {
-      "id": 10,
-      "description": "Product J",
-      "price": 109.99,
-      "inStock": true
-    },
-    {
-      "description": "Product Y",
-      "price": 19.99,
-      "inStock": true,
-      "id": 11
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "description": "Great Value Peanut Butter",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "description": "Mainstays Bath Towel",
+    "price": 29.99,
+    "inStock": false
+  },
+  {
+    "id": 3,
+    "description": "Equate Pain Relief Tablets",
+    "price": 39.99,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "description": "Parent's Choice Baby Diapers",
+    "price": 49.99,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "description": "George Men's Dress Shirt",
+    "price": 59.99,
+    "inStock": false
+  },
+  {
+    "id": 6,
+    "description": "Better Homes & Gardens Comforter Set",
+    "price": 69.99,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "description": "Great Value Coffee Pods",
+    "price": 79.99,
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "description": "Hanes Women's Sweatpants",
+    "price": 89.99,
+    "inStock": false
+  },
+  {
+    "id": 9,
+    "description": "RCA 55-Inch 4K Ultra HD TV",
+    "price": 99.99,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "description": "Keurig K-Classic Coffee Maker",
+    "price": 109.99,
+    "inStock": true
+  },
+  {
+    "description": "Great Value Laundry Detergent",
+    "price": 19.99,
+    "inStock": true,
+    "id": 11
+  },
+  {
+    "id": 12,
+    "description": "Mainstays Bath Mat",
+    "price": 9.99,
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "description": "Equate Allergy Relief Tablets",
+    "price": 15.99,
+    "inStock": false
+  },
+  {
+    "id": 14,
+    "description": "Parent's Choice Baby Wipes",
+    "price": 7.99,
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "description": "George Women's Leggings",
+    "price": 12.99,
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "description": "Better Homes & Gardens Picture Frame",
+    "price": 14.99,
+    "inStock": false
+  },
+  {
+    "id": 17,
+    "description": "Great Value Bottled Water",
+    "price": 3.99,
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "description": "Hanes Men's T-Shirt",
+    "price": 8.99,
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "description": "RCA DVD Player",
+    "price": 29.99,
+    "inStock": false
+  },
+  {
+    "id": 20,
+    "description": "Keurig K-Mini Single Serve Coffee Maker",
+    "price": 79.99,
+    "inStock": true
+  },
+  {
+    "description": "Great Value Toilet Paper",
+    "price": 8.99,
+    "inStock": true,
+    "id": 21
+  },
+  {
+    "id": 22,
+    "description": "Mainstays 12-Piece Dinnerware Set",
+    "price": 24.99,
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "description": "Equate Ibuprofen Tablets",
+    "price": 7.49,
+    "inStock": false
+  },
+  {
+    "id": 24,
+    "description": "Parent's Choice Baby Formula",
+    "price": 17.99,
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "description": "George Men's Polo Shirt",
+    "price": 16.99,
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "description": "Better Homes & Gardens Area Rug",
+    "price": 59.99,
+    "inStock": false
+  },
+  {
+    "id": 27,
+    "description": "Great Value Aluminum Foil",
+    "price": 4.99,
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "description": "Hanes Women's Underwear",
+    "price": 11.99,
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "description": "RCA 32-Inch HD LED TV",
+    "price": 129.99,
+    "inStock": false
+  },
+  {
+    "id": 30,
+    "description": "Keurig K-Elite Coffee Maker",
+    "price": 149.99,
+    "inStock": true
+  },
+  {
+    "description": "Great Value Paper Towels",
+    "price": 12.99,
+    "inStock": true,
+    "id": 31
+  },
+  {
+    "id": 32,
+    "description": "Mainstays Memory Foam Bath Mat",
+    "price": 11.99,
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "description": "Equate Acetaminophen Tablets",
+    "price": 6.99,
+    "inStock": false
+  },
+  {
+    "id": 34,
+    "description": "Parent's Choice Baby Wash",
+    "price": 4.49,
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "description": "George Women's Blouse",
+    "price": 19.99,
+    "inStock": true
+  }
+]
